@@ -1,4 +1,4 @@
-module wblogger
+module github.com/wildberries-tech/wblogger
 
 go 1.18
 
