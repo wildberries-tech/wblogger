@@ -1,4 +1,4 @@
-package logger
+package wblogger
 
 import (
 	"context"
